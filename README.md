@@ -1,1 +1,4 @@
-# demo-Git
+# demo-Git 
+**************
+
+Une demo de git qui se passe bien
